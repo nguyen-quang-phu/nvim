@@ -108,8 +108,8 @@
     },
     "check_ticket": {
         "infer_ticket": false,
-        "confirm_ticket": true,
-        "add_to_title": true,
+        "confirm_ticket": false,
+        "add_to_title": false,
         "append_hashtag": false,
         "prepend_hashtag": "Never",
         "surround": "",
