@@ -3,3 +3,6 @@
 -- Add any additional options here
 
 vim.g.autoformat = false
+vim.opt.fileformat = "unix"
+vim.opt.fixeol = true
+vim.g.lazydev_enabled = true
